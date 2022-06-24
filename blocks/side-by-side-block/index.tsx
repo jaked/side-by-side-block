@@ -1,4 +1,3 @@
-import { useMemo } from "react";
 import { FileBlockProps } from "@githubnext/blocks";
 
 export default function (props: FileBlockProps) {
@@ -25,9 +24,9 @@ export default function (props: FileBlockProps) {
       <div>
         <BlockComponent
           block={{
-            owner: "githubnext",
-            repo: "blocks-examples",
-            id: "markdown-block",
+            owner: "jaked",
+            repo: "mermaid-block",
+            id: "mermaid-block",
           }}
           context={context}
         />
