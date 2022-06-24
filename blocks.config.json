@@ -5,7 +5,7 @@
     "title": "Side-by-side Block",
     "description": "a code editor block next to a Markdown block",
     "entry": "blocks/side-by-side-block/index.tsx",
-    "matches": ["*.md"],
+    "matches": ["*"],
     "example_path": "https://github.com/githubnext/blocks-tutorial/README.md"
   }
 ]
